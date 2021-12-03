@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifytodo",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\blake\\Documents\\Coding\\Git\\amplify-todo\\amplify\\backend\\api\\amplifytodo\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 30,
+      "apiKeyExpirationDate": "2022-01-02T08:22:38.393Z",
+      "keyDescription": ""
+    }
+  }
+}
